@@ -1,0 +1,154 @@
+{
+  "Δθ": {
+    "nome": "Variação de Temperatura",
+    "mascara": "Δθ"
+  },
+  "Δθ''": {
+    "nome": "Temperatura Final",
+    "mascara": "Δθ''"
+  },
+  "Δθ'": {
+    "nome": "Temperatura Inicial",
+    "mascara": "Δθ'"
+  },
+  "Δθc": {
+    "nome": "Variação de Temperatura em Celcius",
+    "mascara": "Δθc"
+  },
+  "Δθf": {
+    "nome": "Variação de Temperatura em Fahrenheit",
+    "mascara": "Δθf"
+  },
+  "Δθk": {
+    "nome": "Variação de Temperatura em Kelvin",
+    "mascara": "Δθk"
+  },
+  "ΔL": {
+    "nome": "Variação de Comprimento",
+    "mascara": "ΔL"
+  },
+  "L0": {
+    "nome": "Comprimento Inicial",
+    "mascara": "L0"
+  },
+  "α": {
+    "nome": "Coeficiente de Dilatação Linear",
+    "mascara": "α"
+  },
+  "ΔA": {
+    "nome": "Variação de Área",
+    "mascara": "ΔA"
+  },
+  "A0": {
+    "nome": "Área Inicial",
+    "mascara": "A0"
+  },
+  "ΔV": {
+    "nome": "Variação de Volume(Sólido e Líquido)",
+    "mascara": "ΔV"
+  },
+  "V0": {
+    "nome": "Volume Inicial",
+    "mascara": "V0"
+  },
+  "ΔVap": {
+    "nome": "Variação da Dilatação Aparente",
+    "mascara": "ΔVap"
+  },
+  "ΔVf": {
+    "nome": "Variação da Dilatação do Frasco",
+    "mascara": "ΔVf"
+  },
+  "C": {
+    "nome": "Capacidade Térmica",
+    "mascara": "C"
+  },
+  "c": {
+    "nome": "Calor Específico",
+    "mascara": "c"
+  },
+  "m": {
+    "nome": "Massa",
+    "mascara": "m"
+  },
+  "Q": {
+    "nome": "Quantidade de Calor Sensível",
+    "mascara": "Q"
+  },
+  "L": {
+    "nome": "Calor Latente",
+    "mascara": "L"
+  },
+  "Qc": {
+    "nome": "Quantidade de Calor Cedido",
+    "mascara": "Qc"
+  },
+  "Qr": {
+    "nome": "Quantidade de Calor Recebido",
+    "mascara": "Qr"
+  },
+  "Φ": {
+    "nome": "Fluxo de Calor",
+    "mascara": "Φ"
+  },
+   "p": {
+    "nome": "Pressão",
+    "mascara": "p"
+  },
+   "V": {
+    "nome": "Volume",
+    "mascara": "V"
+  },
+  "n": {
+    "nome": "numero de mols",
+    "mascara": "n"
+  },
+  "R": {
+    "nome": "Constante Universal dos Gases Perfeitos",
+    "mascara": "R"
+  },
+  "T": {
+    "nome": "Temperatura",
+    "mascara": "T"
+  },
+   "p'": {
+    "nome": "Pressão",
+    "mascara": "p'"
+  },
+   "V'": {
+    "nome": "Volume",
+    "mascara": "V'"
+  },
+  "T'": {
+    "nome": "Temperatura",
+    "mascara": "T'"
+  },
+   "τ": {
+    "nome": "Trabalho",
+    "mascara": "τ"
+  },
+   "ΔU": {
+    "nome": "Variação de Energia Interna",
+    "mascara": "ΔU"
+  },
+  "Qq": {
+    "nome": "Fonte Quente",
+    "mascara": "Qq"
+  },
+  "Qf": {
+    "nome": "Fonte Fria",
+    "mascara": "Qf"
+  },
+   "η": {
+    "nome": "Rendimento",
+    "mascara": "η"
+  },
+  "Tq": {
+    "nome": "Fonte Quente",
+    "mascara": "Tq"
+  },
+  "Tf": {
+    "nome": "Fonte Fria",
+    "mascara": "Tf"
+  }
+}

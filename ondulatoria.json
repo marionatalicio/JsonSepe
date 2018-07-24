@@ -1,0 +1,62 @@
+[
+  {
+    "categoria" : "Ondulatória",
+    "nomeFormula": "Frequência",
+    "formula": " f = ( n / ΔT )",
+    "incog": ["f", "n", "ΔT"]
+  },
+  {
+    "categoria" : "Ondulatória",
+    "nomeFormula": "Período",
+    "formula": " T = ( 1 / f )",
+    "incog": ["T", "f"]
+  },
+  {
+    "categoria" : "Ondulatória",
+    "nomeFormula": "Equação Fundamental da Ondulatória",
+    "formula": " v = ( λ * f )",
+    "incog": ["v", "λ", "f"]
+  },
+  {
+    "categoria" : "Ondulatória",
+    "nomeFormula": "Ondas Bidimensionais",
+    "formula": " ( v * λ ) = ( v' * λ' )",
+    "incog": ["v", "λ", "v'", "λ'"]
+  },
+  {
+    "categoria" : "Ondulatória",
+    "nomeFormula": "Velocidade da Onda da Corda",
+    "formula": " v = ( pow( Tr , 1/2 ) / pow( µ , 1/2 ) )",
+    "incog": ["v", "Tr", "µ"]
+  },
+  {
+    "categoria" : "Ondulatória",
+    "nomeFormula": "Comprimento da Corda",
+    "formula": " L = ( ( n * λ ) / 2 )",
+    "incog": ["L", "Tr", "µ"]
+  },
+  {
+    "categoria" : "Ondulatória",
+    "nomeFormula": "Frequência da Corda",
+    "formula": " f = ( ( n * v ) / 2 * L )",
+    "incog": ["f", "n", "v", "L"]
+  },
+  {
+    "categoria" : "Ondulatória",
+    "nomeFormula": "Espressão Geral do Efeito Doppler",
+    "formula": " fo = ( ( v + vo ) * ( ff / v + vf) )",
+    "incog": ["fo", "v", "vo", "ff", "vf"]
+  },
+  {
+    "categoria" : "Ondulatória",
+    "nomeFormula": "Função Horária da Posição",
+    "formula": " ΔS = ( A * cos(deg2rad( θ + ( ω * ΔT ) ) ) ",
+    "incog": ["ΔS", "A", "cos", "θ", "ω", "ΔT"]
+  },
+  {
+    "categoria" : "Ondulatória",
+    "nomeFormula": "Função Horária da Velocidade",
+    "formula": " ΔV = ( A * sen( θ + ( ω * ΔT ) ",
+    "incog": ["ΔV", "A", "sen", "θ", "ω", "ΔT"]
+  }
+]

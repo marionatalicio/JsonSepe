@@ -1,0 +1,62 @@
+{
+  "f": {
+    "nome": "Frequência",
+    "mascara": "f"
+  },
+  "n": {
+    "nome": "Número de Voltas",
+    "mascara": "n"
+  },
+  "ΔT": {
+    "nome": "Tempo Escalar",
+    "mascara": "ΔT"
+  },
+  "T": {
+    "nome": "Período",
+    "mascara": "T"
+  },
+  "v": {
+    "nome": "Velocidade da Onda",
+    "mascara": "v"
+  },
+  "λ": {
+    "nome": "Comprimento da Onda",
+    "mascara": "λ"
+  },
+  "v'": {
+    "nome": "Velocidade da Onda(')",
+    "mascara": "v'"
+  },
+  "λ'": {
+    "nome": "Comprimento da Onda(')",
+    "mascara": "λ'"
+  },
+  "Tr": {
+    "nome": "Tração da Corda",
+    "mascara": "Tr"
+  },
+  "µ": {
+    "nome": "Densidade da Corda",
+    "mascara": "µ"
+  },
+  "L": {
+    "nome": "Comprimento da Corda",
+    "mascara": "L"
+  },
+  "fo": {
+    "nome": "Frequência do Ouvinte",
+    "mascara": "fo"
+  },
+  "vo": {
+    "nome": "Velocidade do Ouvinte",
+    "mascara": "vo"
+  },
+  "ff": {
+    "nome": "Frequência da Fonte",
+    "mascara": "ff"
+  },
+  "vf": {
+    "nome": "Velocidade da Fonte",
+    "mascara": "vf"
+  }
+}

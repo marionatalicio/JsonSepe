@@ -1,0 +1,105 @@
+[
+  {
+    "categoria" :"Concentrações",
+    "nomeFormula": "Concentração Comum",
+    "formula": " C = ( m1 / V ) ",
+    "incog": ["C", "m1", "V"]
+  },
+  {
+    "categoria" : "Concentrações",
+    "nomeFormula": "Título em Massa",
+    "formula": " τm = ( m1 / m ) ",
+    "incog": ["τm", "m1", "m"]
+  },
+  {
+    "categoria" : "Concentrações",
+    "nomeFormula": "Título Percentual em Massa",
+    "formula": " τ%m = ( τm * 100 ) ",
+    "incog": ["τ%m", "τm"]
+  },
+  {
+    "categoria" : "Concentrações",
+    "nomeFormula": "Título em Volume",
+    "formula": " τV = ( V1 / V ) ",
+    "incog": ["τV", "V1", "V"]
+  },
+  {
+    "categoria" : "Concentrações",
+    "nomeFormula": "Título Percentual em Volume",
+    "formula": " τ%V = ( τV * 100 ) ",
+    "incog": ["τ%V", "τV"]
+  },
+  {
+    "categoria" : "Concentrações",
+    "nomeFormula": "Concentração Molar",
+    "formula": " M = ( n1 / V ) ",
+    "incog": ["M", "n1", "V"]
+  },
+  {
+    "categoria" : "Concentrações",
+    "nomeFormula": "Concentração Molar do(s) Soluto(s)",
+    "formula": " M1 = ( m1 / n1 ) ",
+    "incog": ["M1", "m1", "n1"]
+
+  },
+  {
+    "categoria" : "Densidade e Pressão",
+    "nomeFormula": "Densidade",
+    "formula": " d = ( m / V ) ",
+    "incog": ["d", "m", "V"]
+  },
+  {
+    "categoria" : "Concentrações",
+    "nomeFormula": "Concentração Comum por Densidade e Título",
+    "formula": " C = ( d * τm ) ",
+    "incog": ["C", "d", "τm"]
+  },
+  {
+    "categoria" : "Concentrações",
+    "nomeFormula": "Concetracao Comum Molaridade do(s) Soluto(s)",
+    "formula": " C = ( M * M1 ) ",
+    "incog": ["C", "M", "M1"]
+  },
+  {
+    "categoria" : "Concentrações",
+    "nomeFormula": "Concentração Comum",
+    "formula": " C = ( m1 / V ) ",
+    "incog": ["C", "m1", "V"]
+  },
+  {
+    "categoria" : "Diluição de Mistura de Soluções de Mesmo Soluto",
+    "nomeFormula": "Diluição",
+    "formula": " ( C * V ) = ( C' * V' ) ",
+    "incog": ["C", "V","C'", "V'"]
+  },
+  {
+    "categoria" : "Diluição de Mistura de Soluções de Mesmo Soluto",
+    "nomeFormula": "Diluição por Título e Massa",
+    "formula": " ( τm * m ) = ( τm' * m' ) ",
+    "incog": ["τm", "m","τm'", "m'"]
+  },
+  {
+    "categoria" : "Diluição de Mistura de Soluções de Mesmo Soluto",
+    "nomeFormula": "Diluição por Molaridade e Volume",
+    "formula": " ( M * V ) = ( M' * V' ) ",
+    "incog": ["M", "V","M'", "V'"]
+  },
+  {
+    "categoria" : "Diluição de Mistura de Soluções de Mesmo Soluto",
+    "nomeFormula": "Concentração de Misturas por Concentração Comum",
+    "formula": " ( C * ( V' + V'' ) ) = ( C' * V' ) + ( C'' * V'' ) ",
+    "incog": ["C", "C'", "C''", "V'", "V''"]
+  },
+  {
+    "categoria" : "Diluição e Mistura de Soluções de Mesmo Soluto",
+    "nomeFormula": "Concentração de Mistura por Molaridade",
+    "formula": " ( M * ( V' + V'' ) ) = ( M' * V' ) + ( M'' * V'' ) ",
+    "incog": ["M", "M''", "M'", "V'", "V''"]
+  },
+  {
+    "categoria" : "Átomo",
+    "nomeFormula": "Massa Atômica",
+    "formula": " A = Z + P ",
+    "incog": ["A", "Z", "P"]
+  }
+]

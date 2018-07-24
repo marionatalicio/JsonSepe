@@ -1,0 +1,387 @@
+[
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Quantidade de Carga Elétrica",
+    "formula": " Q = ( n * e ) ",
+    "incog": ["Q", "n", "e"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Média de Corrente Elétrica",
+    "formula": " i = ( Q / ΔT ) ",
+    "incog": ["i", "Q", "ΔT"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Potencial Elétrico",
+    "formula": " V = ( Ep / Q ) ",
+    "incog": ["V", "Ep", "Q"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Diferença de Potencial Elétrico",
+    "formula": " U = V - V' ",
+    "incog": ["U", "V", "V'"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Diferença de Potencial Elétrico",
+    "formula": " U =  ( ΔEp / Q ) ",
+    "incog": ["U", "ΔEp", "Q"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Elétrica",
+    "formula": " P =  ( ΔEp / ΔT ) ",
+    "incog": ["P", "ΔEp", "ΔT"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Elétrica(PIU))",
+    "formula": " P =  ( i * U ) ",
+    "incog": ["P", "i", "U"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "1° Lei de Ohm",
+    "formula": " U =  ( R * i ) ",
+    "incog": ["U", "R", "i"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "2° Lei de Ohm",
+    "formula": " R = ( ( ρ * L ) / A )",
+    "incog": ["R", "ρ", "L", "A"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Elétrica(PRI)",
+    "formula": " P = ( R * pow(i , 2 ) )",
+    "incog": ["P", "R", "i"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Elétrica",
+    "formula": " P = ( pow( U , 2 ) / R )",
+    "incog": ["P", "U", "R"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Resistência Equivalente",
+    "formula": " Re = R + R'",
+    "incog": ["Re", "R", "R'"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Elétrica Total do Gerador",
+    "formula": " Pt =  ( ε * i ) ",
+    "incog": ["Pt", "ε", "i"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Elétrica Útil do Gerador",
+    "formula": " Pd =  ( r * pow(i , 2 ) ) ",
+    "incog": ["Pd", "r", "i"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Útil do Gerador",
+    "formula": " Pú =  ( U * i ) ",
+    "incog": ["Pú", "U", "i"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Total do Gerador",
+    "formula": " Pt = Pú + Pd ",
+    "incog": ["Pt", "Pú", "Pd"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Diferença de Potencial Elétrico do Gerador",
+    "formula": " U =   ε - ( r * i ) ",
+    "incog": ["U", "ε", "i"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Rendimento do Gerador",
+    "formula": " η =  ( Pú / Pt ) ",
+    "incog": ["η", "Pú", "Pt"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Rendimento do Gerador",
+    "formula": " η =  ( U / ε ) ",
+    "incog": ["η", "U", "ε"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Força Eletromotriz do Gerador-Resistor",
+    "formula": " ε = ( i * ( R + r) )",
+    "incog": ["ε", "i", "R", "r"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Elétrica Total do Receptor",
+    "formula": " Pt' =  ( U * i ) ",
+    "incog": ["Pt'", "U", "i"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Útil do Receptor",
+    "formula": " Pú' =  ( ε' * i ) ",
+    "incog": ["Pú'", "ε'", "i"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Dissipada do Receptor",
+    "formula": " Pd' =  ( r' * i ) ",
+    "incog": ["Pd'", "r'", "i"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Total do Receptor",
+    "formula": " Pt' = Pú' + Pd' ",
+    "incog": ["Pt'", "Pú'", "Pd'"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Potência Elétrica do Receptor",
+    "formula": " U =   ε'' + ( r' * i ) ",
+    "incog": ["U", "ε'","r'", "i"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Rendimento do Gerador",
+    "formula": " η' =  ( Pú' / Pt' ) ",
+    "incog": ["η'", "Pú'", "Pt'"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Rendimento do Gerador",
+    "formula": " η' =  ( ε' / U ) ",
+    "incog": ["η'", "ε'", "U"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Lei de Ohm-Pouillet Gerador-Resistor-Receptor",
+    "formula": " i =  ( ε -ε' ) / ( R + r + r')",
+    "incog": ["i", "ε", "ε'", "R","r", "r'"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Ponte de Wheatstone",
+    "formula": " R4 * R2 = R1 + R3 ",
+    "incog": ["R4", "R2", "R1", "R3"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Ponte de Fio",
+    "formula": " R4 * L2 = R1 + L3 ",
+    "incog": ["R4", "L2", "R1", "L3"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Força Elétrica(Lei de Coulomb)",
+    "formula": " F = ( k * Q * q ) / pow( d , 2 ) ",
+    "incog": ["F", "k", "Q", "q", "d"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Campo Elétrico(Q)",
+    "formula": " E = ( F / Q ) ",
+    "incog": ["E", "F", "Q"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Campo Elétrico(q)",
+    "formula": " E = ( F / q ) ",
+    "incog": ["E", "F", "q"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Campo Elétrico de Carga Puntiforme",
+    "formula": " E = ( ( k * Q ) / pow( d , 2 ) ) ",
+    "incog": ["E", "k", "Q", "d"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Energia Potencial Elétrica",
+    "formula": " Ep = ( k * Q * q ) / d  ",
+    "incog": ["Ep", "k", "Q", "q", "d"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Potencial Elétrico",
+    "formula": " V = ( Ep / q ) ",
+    "incog": ["V", "Ep", "q"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Potencial Elétrico Devido a uma Carga Puntiforme",
+    "formula": " V = ( ( k * Q ) / d ) ",
+    "incog": ["V", "k", "Q", "d"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Variação da Distância entre as Cargas Elétricas",
+    "formula": " Δd = da - db ",
+    "incog": ["Δd", "da", "db"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Diferença de Potencial Elétrico",
+    "formula": " U = ( k * Q ) / Δd  ",
+    "incog": ["U", "k", "Q", "Δd"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Potencial Elétrico Resultante",
+    "formula": " Vr = V + V'  ",
+    "incog": ["Vr", "V", "V'"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Trabalho da Força Elétrica(Q)",
+    "formula": " τ = ( Q * U ) ",
+    "incog": ["τ", "Q", "U"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Trabalho da Força Elétrica(q)",
+    "formula": " τ = ( q * U ) ",
+    "incog": ["τ", "q", "U"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Potencial Elétrico no C.E.U.",
+    "formula": " U = ( E * d ) ",
+    "incog": ["U", "E", "d"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Densidade Superficial de Carga Elétrica",
+    "formula": " σ = ( Q / A ) ",
+    "incog": ["σ", "Q", "A"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Capacidade do Capacitor",
+    "formula": " C = ( Q / U ) ",
+    "incog": ["C", "Q", "U"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Energia Armazenada no Capacitor",
+    "formula": " Ee = ( ( Q * U ) / 2 )",
+    "incog": ["Ee", "Q", "U"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Energia Armazenada no Capacitor",
+    "formula": " Ee = ( ( C * pow( U , 2 ) ) / 2 )",
+    "incog": ["Ee", "C", "U"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Energia Armazenada no Capacitor",
+    "formula": " Ee = ( ( pow( Q , 2 ) ) / 2 * C)",
+    "incog": ["Ee", "Q", "C"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Capacidade Eletrostática do Capacitor Plano",
+    "formula": " C = ( ( εp * A ) / d ) ",
+    "incog": ["C", "εp", "A", "d"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Permissividade Relativa do Capacitor",
+    "formula": " εr = ( εp / ε0 ) ",
+    "incog": ["εr", "εp", "ε0"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Campo Magnético do Fio Retilíneo ou Condutores Paralelos",
+    "formula": " B = ( ( µ * i ) / 2 * π * d ) ",
+    "incog": ["B", "µ", "i", "π", "d"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Campo Magnético em Espira Circular",
+    "formula": " B = ( ( µ * i ) / 2 * R ) ",
+    "incog": ["B", "µ", "i", "R"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Campo Magnético em Espira Circular(n) voltas",
+    "formula": " B = ( ( n * µ * i ) / 2 * R ) ",
+    "incog": ["B", "n", "µ", "i", "R"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Campo Magnético em Solenoide(n) voltas",
+    "formula": " B = ( ( n * µ * i ) / L ) ",
+    "incog": ["B", "n", "µ", "i", "L"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Força Magnética em Cargas com Movimento (Helicoidal) Uniforme",
+    "formula": " Fm = ( q * v * B * sen_θ ) ",
+    "incog": ["Fm", "q", "v", "B", "sen_θ"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Raio do Campo Magnético Uniforme",
+    "formula": " R = ( ( m * v ) / ( q * B ) ) ",
+    "incog": ["R", "m", "v", "q", "B"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Período do Campo Magnético em M.C.U.",
+    "formula": " T = ( ( 2 * π * m ) / ( q * B ) ) ",
+    "incog": ["T", "m", "v", "q", "B"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Força Magnética Sobre Fios Retilíneos",
+    "formula": " Fm = ( B * i * L * sen_θ ) ",
+    "incog": ["Fm", "B", "i", "L", "sen_θ"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Fluxo Magnético",
+    "formula": " Φ = ( B * A ) ",
+    "incog": ["Φ", "B", "A"]
+  },
+  {
+    "categoria" : "Eletrostática",
+    "nomeFormula": "Variação do Fluxo Magnético",
+    "formula": " ΔΦ =  Φ - Φo  ",
+    "incog": ["ΔΦ", "Φ", "Φo"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Força Eletromotriz Média",
+    "formula": " εm = ( ΔΦ / ΔT )",
+    "incog": ["εm", "ΔΦ", "ΔT"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Força Eletromotriz Induzida",
+    "formula": " εi = ( B * L * v)",
+    "incog": ["εi", "B", "L", "v"]
+  },
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Transformadores",
+    "formula": " ( Up / Us) = ( Np / Ns )",
+    "incog": ["Up", "Us", "Np", "Ns"]
+  },
+
+  {
+    "categoria" : "Eletrodinâmica",
+    "nomeFormula": "Transformadores",
+    "formula": " ( ip / is) = ( Np / Ns )",
+    "incog": ["ip", "is", "Np", "Ns"]
+  }
+]

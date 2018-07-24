@@ -1,0 +1,54 @@
+{
+  "i": {
+    "nome": "Tamanho da Imagem Projetada",
+    "mascara": "i"
+  },
+  "o": {
+    "nome": "Tamanho do Objeto Iluminado",
+    "mascara": "o"
+  },
+  "p": {
+    "nome": "Distãncia do Objeto até o Espelho",
+    "mascara": "p"
+  },
+  "p'": {
+    "nome": "Distãncia da Imagem até o Espelho",
+    "mascara": "p'"
+  },
+  "f": {
+    "nome": "Distância Focal",
+    "mascara": "f"
+  },
+  "n": {
+    "nome": "Índice de Refração",
+    "mascara": "n"
+  },
+  "n'": {
+    "nome": "Índice de Refração do meio n'",
+    "mascara": "n'"
+  },
+  "c": {
+    "nome": "Velocidade da Luz no Vácuo",
+    "mascara": "c"
+  },
+  "v": {
+    "nome": "Velocidade da Luz no Meio",
+    "mascara": "v"
+  },
+  "na": {
+    "nome": "Índice de Refração do Meio a",
+    "mascara": "na"
+  },
+  "nb": {
+    "nome": "Índice de Refração do Meio b",
+    "mascara": "nb"
+  },
+  "sena": {
+    "nome": "Ângulo de a com Normal",
+    "mascara": "sena"
+  },
+  "senb": {
+    "nome": "Ângulo de b com Normal",
+    "mascara": "senb"
+  }
+}

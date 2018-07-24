@@ -1,0 +1,166 @@
+[
+  {
+    "categoria" : "Termometria",
+    "nomeFormula": "Variação da Temperatura",
+    "formula": " Δθ = Δθ'' - Δθ' ",
+    "incog": ["Δθ", "Δθ''", "Δθ'"]
+  },
+  {
+    "categoria" : "Termometria",
+    "nomeFormula": "Variação da Temperatura de Celcius para Fahrenheit",
+    "formula": " ( Δθc / 5 ) = ( Δθf / 9 ) ",
+    "incog": ["Δθc", "Δθf"]
+  },
+  {
+    "categoria" : "Termometria",
+    "nomeFormula": "Variação da Temperatura de Fahrenheit para Kelvin",
+    "formula": " ( Δθf / 9 ) = ( Δθk / 5 ) ",
+    "incog": ["Δθf", "Δθk"]
+  },
+  {
+    "categoria" : "Termometria",
+    "nomeFormula": "Dilatação Linear dos Sólidos",
+    "formula": " ΔL = ( L0 * α * Δθ ) ",
+    "incog": ["ΔL", "L0", "α" , "Δθ"]
+  },
+  {
+    "categoria" : "Termometria",
+    "nomeFormula": "Dilatação Superficial dos Sólidos",
+    "formula": " ΔA = ( A0 * 2 * α * Δθ ) ",
+    "incog": ["ΔA", "A0", "α" , "Δθ"]
+  },
+  {
+    "categoria" : "Termometria",
+    "nomeFormula": "Dilatação Volumétrica dos Sólidos",
+    "formula": " ΔV = ( V0 * 3 * α * Δθ ) ",
+    "incog": ["ΔV", "V0", "α" , "Δθ"]
+  },
+  {
+    "categoria" : "Termometria",
+    "nomeFormula": "Dilatação Térmica dos Líquidos",
+    "formula": " ΔV = ΔVap + ΔVf ",
+    "incog": ["ΔV", "ΔVap", "ΔVf"]
+  },
+  {
+    "categoria" : "Calorimetria",
+    "nomeFormula": "Quantidade de Calor",
+    "formula": " Q = ( C * Δθ ) ",
+    "incog": ["Q", "C", "Δθ"]
+  },
+  {
+    "categoria" : "Calorimetria",
+    "nomeFormula": "Capacidade Térmica",
+    "formula": " C = ( c * m ) ",
+    "incog": ["C", "c", "m"]
+  },
+  {
+    "categoria" : "Calorimetria",
+    "nomeFormula": "Quantidade de Calor Sensível",
+    "formula": " Q = ( m * c * Δθ ) ",
+    "incog": ["Q", "m", "c", "Δθ"]
+  },
+  {
+    "categoria" : "Calorimetria",
+    "nomeFormula": "Quantidade de Calor Latente",
+    "formula": " Q = ( m * L ) "
+    ,
+    "incog": ["Q", "m", "L"]
+  },
+  {
+    "categoria" : "Calorimetria",
+    "nomeFormula": "Trocas de Calor",
+    "formula": " Qc = -Qr "
+    ,
+    "incog": ["Qc", "Qr"]
+  },
+  {
+    "categoria" : "Calorimetria",
+    "nomeFormula": "Fluxo de Calor(Condução)",
+    "formula": " Φ = ( Q / ΔT ) ",
+    "incog": ["Φ", "Q", "ΔT"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "Equação de Clapeyron",
+    "formula": " ( p * V ) = ( n * R * T) ",
+    "incog": ["p", "V", "n", "R", "T"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "Equação Geral dos Gases",
+    "formula": " ( ( p * V ) / T ) = ( ( p' * V' ) / T' ) ",
+    "incog": ["p", "V", "T", "p'", "V'", "T'"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "Transformação Gasosa Isotérmica (Lei de Boyle) ",
+    "formula": " ( p * V ) = ( p' * V' ) ",
+    "incog": ["p", "V", "p'", "V'"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "Transformação Gasosa Isobárica (Lei de Gay-Lussac) ",
+    "formula": " ( V / T ) = ( V' T' ) ",
+    "incog": ["V", "T", "V'", "T'"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "Transformação Gasosa Isovolumétrica (Lei de Charles) ",
+    "formula": " ( p / T ) = ( p' T' ) ",
+    "incog": ["p", "T", "p'", "T'"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "Trabalho de um Gás Sob Pressão Constante",
+    "formula": " τ = ( p * ΔV ) ",
+    "incog": ["τ", "p", "ΔV"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "Variação de Energia Interna",
+    "formula": " ΔU = ( ( n * R * ΔT * 3 ) / 2 ) "
+    ,
+    "incog": ["ΔU", "n", "R", "ΔT"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "Variação de Energia Interna",
+    "formula": " ΔU = ( ( p * ΔT * 3 ) / 2 ) "
+    ,
+    "incog": ["ΔU", "p", "ΔT"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "1°Lei da Termodinâmica",
+    "formula": " Q = τ + ΔU "
+    ,
+    "incog": ["Q", "τ", "ΔU"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "Máquinas Térmicas",
+    "formula": " Qq = τ + Qf"
+    ,
+    "incog": ["Qq", "τ", "Qf"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "Rendimento de Máquinas Térmicas pelo Calor",
+    "formula": " = 1 - ( Qf / Qq)"
+    ,
+    "incog": ["η", "Qf", "Qq"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "Ciclo de Carnot",
+    "formula": " ( Qf / Qq) = ( Tf / Tq)"
+    ,
+    "incog": ["Qf", "Qq", "Tf", "Tq"]
+  },
+  {
+    "categoria" : "Termodinâmica",
+    "nomeFormula": "Rendimento de Máquinas Térmicas pela Temperatura",
+    "formula": " η = 1 - ( Tf / Tq)",
+    "incog": ["η", "Tf", "Tq"]
+  }
+]

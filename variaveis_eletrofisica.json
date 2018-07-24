@@ -1,0 +1,290 @@
+{
+  "Q": {
+    "nome": "Quantidade de Carga Elétrica(Q)",
+    "mascara": "Q"
+  },
+  "n": {
+    "nome": "Numero de Elétrons",
+    "mascara": "n"
+  },
+  "e": {
+    "nome": "Quantidade de Carga Elementar",
+    "mascara": "e"
+  },
+  "i": {
+    "nome": "Média de Corrente Elétrica",
+    "mascara": "i"
+  },
+  "ΔT": {
+    "nome": "Tempo Escalar",
+    "mascara": "ΔT"
+  },
+  "V": {
+    "nome": "Potencial Elétrico",
+    "mascara": "V"
+  },
+  "Ep": {
+    "nome": "Energia Potencial Elétrica",
+    "mascara": "Ep"
+  },
+  "U": {
+    "nome": "Diferença de Potencial Elétrico(ddp)",
+    "mascara": "U"
+  },
+  "ΔEp": {
+    "nome": "Variação Energia Potencial Elétrica",
+    "mascara": "ΔEp"
+  },
+  "P": {
+    "nome": "Potência Elétrica",
+    "mascara": "P"
+  },
+  "R": {
+    "nome": "Resistência Elétrica",
+    "mascara": "R"
+  },
+  "R'": {
+    "nome": "Resistência Elétrica de (')",
+    "mascara": "R'"
+  },
+  "ρ": {
+    "nome": "Resistividade",
+    "mascara": "ρ"
+  },
+  "L": {
+    "nome": "Comprimento do Fio",
+    "mascara": "L"
+  },
+  "A": {
+    "nome": "Área da Secção Transversal do Fio ou Placa",
+    "mascara": "A"
+  },
+  "Re": {
+    "nome": "Resistência Elétrica Equivalente",
+    "mascara": "Re"
+  },
+  "Pt": {
+    "nome": "Potência Elétrica Total do Gerador",
+    "mascara": "Pt"
+  },
+  "Pd": {
+    "nome": "Potência Elétrica Dissipada do Gerador",
+    "mascara": "Pd"
+  },
+  "Pú": {
+    "nome": "Potência Elétrica Útil do Gerador",
+    "mascara": "Pú"
+  },
+  "ε": {
+    "nome": "Força Eletromotriz(F.EM) do Gerador",
+    "mascara": "ε"
+  },
+  "r": {
+    "nome": "Resistência Elétrica Interna do Gerador",
+    "mascara": "r"
+  },
+  "η": {
+    "nome": "Rendimento do Gerador",
+    "mascara": "η"
+  },
+  "Pt'": {
+    "nome": "Potência Elétrica Total do Receptor",
+    "mascara": "Pt'"
+  },
+  "Pd'": {
+    "nome": "Potência Elétrica Dissipada do Receptor",
+    "mascara": "Pd'"
+  },
+  "Pú'": {
+    "nome": "Potência Elétrica Útil do Receptor",
+    "mascara": "Pú'"
+  },
+  "ε'": {
+    "nome": "Força Eletromotriz(F.EM) do Receptor",
+    "mascara": "ε'"
+  },
+  "r'": {
+    "nome": "Resistência Elétrica Interna do Receptor",
+    "mascara": "r'"
+  },
+  "η'": {
+    "nome": "Rendimento do Receptor",
+    "mascara": "η'"
+  },
+  "R1": {
+    "nome": "Resistência Elétrica 1",
+    "mascara": "R1"
+  },
+  "R2": {
+    "nome": "Resistência Elétrica 2",
+    "mascara": "R2"
+  },
+  "R3": {
+    "nome": "Resistência Elétrica 3",
+    "mascara": "R3"
+  },
+  "R4": {
+    "nome": "Resistência Elétrica 4",
+    "mascara": "R4"
+  },
+  "L2": {
+    "nome": "Comprimento do Fio 2",
+    "mascara": "L2"
+  },
+  "L3": {
+    "nome": "Comprimento do Fio 3",
+    "mascara": "L3"
+  },
+  "F": {
+    "nome": "Força Elétrica",
+    "mascara": "F"
+  },
+  "k": {
+    "nome": "Constante Eletrostática de Coulomb",
+    "mascara": "k",
+  },
+  "q": {
+    "nome": "Quantidade de Carga Elétrica(q)",
+    "mascara": "q"
+  },
+  "d": {
+    "nome": "Distância entre as Cargas Elétricas",
+    "mascara": "d"
+  },
+  "E": {
+    "nome": "Campo Elétrico",
+    "mascara": "E"
+  },
+  "Δd": {
+    "nome": "Variação da Distência",
+    "mascara": "Δd"
+  },
+  "da": {
+    "nome": "Distância a",
+    "mascara": "da"
+  },
+  "db": {
+    "nome": "Distância b",
+    "mascara": "db"
+  },
+  "Vr": {
+    "nome": "Potencial Elétrico Resultante",
+    "mascara": "Vr"
+  },
+  "V'": {
+    "nome": "Potencial Elétrico(')",
+    "mascara": "V'"
+  },
+  "τ": {
+    "nome": "Trabalho de Força Elétrica",
+    "mascara": "τ"
+  },
+  "σ": {
+    "nome": "Densidade Superficial das Cargas Elétricas",
+    "mascara": "σ"
+  },
+  "C": {
+    "nome": "Capacidade do Capacitor",
+    "mascara": "C"
+  },
+  "Ee": {
+    "nome": "Energia Armazenada no Capacitor",
+    "mascara": "Ee"
+  },
+  "εp": {
+    "nome": "Permissividade Elétrica do Meio",
+    "mascara": "εp"
+  },
+  "εr": {
+    "nome": "Permissividade Relativa do Capacitor",
+    "mascara": "εr"
+  },
+  "ε0": {
+    "nome": "Constante Dielétrica no Vácuo",
+    "mascara": "ε0"
+  },
+  "B": {
+    "nome": "Campo Magnético",
+    "mascara": "B"
+  },
+  "µ": {
+    "nome": "Permeabilidade Magnética",
+    "mascara": "µ"
+  },
+  "π": {
+    "nome": "Pi",
+    "mascara": "π"
+  },
+  "R": {
+    "nome": "Raio da Espira Circular",
+    "mascara": "R"
+  },
+  "n": {
+    "nome": "Números de Voltas da Espira Circular",
+    "mascara": "n"
+  },
+  "sen_θ": {
+    "nome": "Seno de θ",
+    "mascara": "sen_θ"
+  },
+  "Fm": {
+    "nome": "Força Magnética",
+    "mascara": "Fm"
+  },
+  "v": {
+    "nome": "Velocidade de Lançamento",
+    "mascara": "v"
+  },
+  "m": {
+    "nome": "Massa da Partícula",
+    "mascara": "m"
+  },
+  "T": {
+    "nome": "Período",
+    "mascara": "T"
+  },
+  "Φ": {
+    "nome": "Fluxo Magnético",
+    "mascara": "Φ"
+  },
+  "ΔΦ": {
+    "nome": "Variação do Fluxo Magnético",
+    "mascara": "ΔΦ"
+  },
+  "Φo": {
+    "nome": "Fluxo Magnético inicial",
+    "mascara": "Φo"
+  },
+  "εm": {
+    "nome": "Força Eletromotriz Média",
+    "mascara": "εm"
+  },
+  "εi": {
+    "nome": "Força Eletromotriz Induzida",
+    "mascara": "εi"
+  },
+  "Up": {
+    "nome": "Diferença de Potencial Elétrico Primário",
+    "mascara": "Up"
+  },
+  "Us": {
+    "nome": "Diferença de Potencial Elétrico Secundário",
+    "mascara": "Us"
+  },
+  "Np": {
+    "nome": "Número de Espiras Primária",
+    "mascara": "Np"
+  },
+  "Ns": {
+    "nome": "Número de Espiras Secundária",
+    "mascara": "Ns"
+  },
+  "ip": {
+    "nome": "Corrente Elétrica Primária",
+    "mascara": "ip"
+  },
+  "is": {
+    "nome": "Corrente Elétrica Secundária",
+    "mascara": "is"
+  }
+}

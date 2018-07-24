@@ -1,0 +1,56 @@
+[
+  {
+    "categoria" : "Reflexão Luminosa em Espelhos",
+    "nomeFormula": "Equação de Gauss",
+    "formula": " 1 = ( f * ( 1 / p ) + ( 1/ p' ) )",
+    "incog": ["f", "p", "p'"]
+  },
+  {
+    "categoria" : "Reflexão Luminosa em Espelhos",
+    "nomeFormula": "Equação do Aumento Linear",
+    "formula": " i = ( o * ( p' / p ) )",
+    "incog": ["i", "o", "p", "p'"]
+  },
+  {
+    "categoria" : "Reflexão Luminosa em Espelhos",
+    "nomeFormula": "Equação dos Pontos Conjugados",
+    "formula": " n = ( p * ( n' / p' ) )",
+    "incog": ["n", "p", "n'", "p'"]
+  },
+  {
+    "categoria" : "Reflexão Luminosa em Lentes",
+    "nomeFormula": "Aumento Linear Transversal",
+    "formula": " A = ( i / o ) ",
+    "incog": ["A", "i", "o'"]
+  },
+  {
+    "categoria" : "Reflexão Luminosa em Lentes",
+    "nomeFormula": "Aumento Linear Transversal",
+    "formula": " A = ( - p' / p ) ",
+    "incog": ["A", "p'", "p'"]
+  },
+  {
+    "categoria" : "Reflexão Luminosa em Lentes",
+    "nomeFormula": "Aumento Linear Transversal",
+    "formula": " A = ( f / ( f - p ) ) ",
+    "incog": ["A", "f'", "p"]
+  },
+  {
+    "categoria" : "Refração Luminosa",
+    "nomeFormula": "Refração Absoluta",
+    "formula": " n = ( c / v )",
+    "incog": ["n", "c", "v"]
+  },
+  {
+    "categoria" : "Refração Luminosa",
+    "nomeFormula": "Refração Relativa",
+    "formula": " n = ( na / nb )",
+    "incog": ["n", "na", "nb"]
+  },
+  {
+    "categoria" : "Refração Luminosa",
+    "nomeFormula": "lei de Snell-Descartes",
+    "formula": " na = ( ( nb  * senb) / sena )",
+    "incog": ["na", "nb", "senb", "sena"]
+  },
+]
