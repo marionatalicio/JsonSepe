@@ -1,54 +1,67 @@
 {
   "i": {
     "nome": "Tamanho da Imagem Projetada",
-    "mascara": "i"
+    "mascara": "i",
+    "unidade":"Metro(s)"
   },
   "o": {
     "nome": "Tamanho do Objeto Iluminado",
-    "mascara": "o"
+    "mascara": "o",
+    "unidade":"Metro(s)"
   },
   "p": {
     "nome": "Distãncia do Objeto até o Espelho",
-    "mascara": "p"
+    "mascara": "p",
+    "unidade":"Metro(s)"
   },
   "p'": {
     "nome": "Distãncia da Imagem até o Espelho",
-    "mascara": "p'"
+    "mascara": "p'",
+    "unidade":"Metro(s)"
   },
   "f": {
     "nome": "Distância Focal",
-    "mascara": "f"
+    "mascara": "f",
+    "unidade":"Metro(s)"
   },
   "n": {
     "nome": "Índice de Refração",
-    "mascara": "n"
+    "mascara": "n",
+    "unidade":""
   },
   "n'": {
     "nome": "Índice de Refração do meio n'",
-    "mascara": "n'"
+    "mascara": "n'",
+    "unidade":""
   },
   "c": {
     "nome": "Velocidade da Luz no Vácuo",
-    "mascara": "c"
+    "mascara": "c",
+    "unidade":"Metro(s) por Segundo"
   },
   "v": {
     "nome": "Velocidade da Luz no Meio",
-    "mascara": "v"
+    "mascara": "v",
+    "unidade":"Metro(s) por Segundo"
   },
   "na": {
     "nome": "Índice de Refração do Meio a",
-    "mascara": "na"
+    "mascara": "na",
+    "unidade":""
   },
   "nb": {
     "nome": "Índice de Refração do Meio b",
-    "mascara": "nb"
+    "mascara": "nb",
+    "unidade":""
   },
   "sena": {
     "nome": "Ângulo de a com Normal",
-    "mascara": "sena"
+    "mascara": "sena",
+    "unidade":""
   },
   "senb": {
     "nome": "Ângulo de b com Normal",
-    "mascara": "senb"
+    "mascara": "senb",
+    "unidade":""
   }
 }

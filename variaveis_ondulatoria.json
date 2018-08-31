@@ -1,62 +1,77 @@
 {
   "f": {
     "nome": "Frequência",
-    "mascara": "f"
+    "mascara": "f",
+    "unidade":"Hertz"
   },
   "n": {
     "nome": "Número de Voltas",
-    "mascara": "n"
+    "mascara": "n",
+    "unidade":"Voltas"
   },
   "ΔT": {
     "nome": "Tempo Escalar",
-    "mascara": "ΔT"
+    "mascara": "ΔT",
+    "unidade":"Segundo(s)"
   },
   "T": {
     "nome": "Período",
-    "mascara": "T"
+    "mascara": "T",
+    "unidade":"Segundo(s)"
   },
   "v": {
     "nome": "Velocidade da Onda",
-    "mascara": "v"
+    "mascara": "v",
+    "unidade":"Metro(s) por Segundo"
   },
   "λ": {
     "nome": "Comprimento da Onda",
-    "mascara": "λ"
+    "mascara": "λ",
+    "unidade":"Metro(s)"
   },
   "v'": {
     "nome": "Velocidade da Onda(')",
-    "mascara": "v'"
+    "mascara": "v'",
+    "unidade":"Metro(s) por Segundo"
   },
   "λ'": {
     "nome": "Comprimento da Onda(')",
-    "mascara": "λ'"
+    "mascara": "λ'",
+    "unidade":"Lambda"
   },
   "Tr": {
     "nome": "Tração da Corda",
-    "mascara": "Tr"
-  },
+    "mascara": "Tr",
+    "unidade":"Newton(s)"
+  },  
   "µ": {
     "nome": "Densidade da Corda",
-    "mascara": "µ"
+    "mascara": "µ",
+    "unidade":"Quilo(s) por Metro"
   },
   "L": {
     "nome": "Comprimento da Corda",
-    "mascara": "L"
+    "mascara": "L",
+    "unidade":"Metro(s)"
   },
   "fo": {
     "nome": "Frequência do Ouvinte",
-    "mascara": "fo"
+    "mascara": "fo",
+    "unidade":"Hertz"
   },
   "vo": {
     "nome": "Velocidade do Ouvinte",
-    "mascara": "vo"
+    "mascara": "vo",
+    "unidade":"Metro(s) por Segundo"
   },
   "ff": {
     "nome": "Frequência da Fonte",
-    "mascara": "ff"
+    "mascara": "ff",
+    "unidade":"Hertz"
   },
   "vf": {
     "nome": "Velocidade da Fonte",
-    "mascara": "vf"
+    "mascara": "vf",
+    "unidade":"Metro(s) por Segundo"
   }
 }

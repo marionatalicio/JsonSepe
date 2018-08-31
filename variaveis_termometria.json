@@ -1,154 +1,192 @@
 {
   "Δθ": {
     "nome": "Variação de Temperatura",
-    "mascara": "Δθ"
+    "mascara": "Δθ",
+    "unidade":"Kelvin(s)"
   },
   "Δθ''": {
     "nome": "Temperatura Final",
-    "mascara": "Δθ''"
+    "mascara": "Δθ''",
+    "unidade":"Kelvin(s)"
   },
   "Δθ'": {
     "nome": "Temperatura Inicial",
-    "mascara": "Δθ'"
+    "mascara": "Δθ'",
+    "unidade":"Kelvin(s)"
   },
   "Δθc": {
-    "nome": "Variação de Temperatura em Celcius",
-    "mascara": "Δθc"
+    "nome": "Variação de Temperatura em Celsius",
+    "mascara": "Δθc",
+    "unidade":"Celsius"
   },
   "Δθf": {
     "nome": "Variação de Temperatura em Fahrenheit",
-    "mascara": "Δθf"
+    "mascara": "Δθf",
+    "unidade":"Fahrenheit"
   },
   "Δθk": {
     "nome": "Variação de Temperatura em Kelvin",
-    "mascara": "Δθk"
+    "mascara": "Δθk",
+    "unidade":"Kelvin"
   },
   "ΔL": {
     "nome": "Variação de Comprimento",
-    "mascara": "ΔL"
+    "mascara": "ΔL",
+    "unidade":"Metro(s)"
   },
   "L0": {
     "nome": "Comprimento Inicial",
-    "mascara": "L0"
+    "mascara": "L0",
+    "unidade":"Metro(s)"
   },
   "α": {
     "nome": "Coeficiente de Dilatação Linear",
-    "mascara": "α"
+    "mascara": "α",
+    "unidade":"Celsius Recíproco"
   },
   "ΔA": {
     "nome": "Variação de Área",
-    "mascara": "ΔA"
+    "mascara": "ΔA",
+    "unidade":"Metro(s) ao quadrado"
   },
   "A0": {
     "nome": "Área Inicial",
-    "mascara": "A0"
+    "mascara": "A0",
+    "unidade":"Metro(s) ao quadrado"
   },
   "ΔV": {
     "nome": "Variação de Volume(Sólido e Líquido)",
-    "mascara": "ΔV"
+    "mascara": "ΔV",
+    "unidade":"Metro(s) ao cubo"
   },
   "V0": {
     "nome": "Volume Inicial",
-    "mascara": "V0"
+    "mascara": "V0",
+    "unidade":"Metro(s) ao cubo"
   },
   "ΔVap": {
     "nome": "Variação da Dilatação Aparente",
-    "mascara": "ΔVap"
+    "mascara": "ΔVap",
+    "unidade":"Metro(s) ao cubo"
   },
   "ΔVf": {
     "nome": "Variação da Dilatação do Frasco",
-    "mascara": "ΔVf"
+    "mascara": "ΔVf",
+    "unidade":"Metro(s) ao cubo"
   },
   "C": {
     "nome": "Capacidade Térmica",
-    "mascara": "C"
+    "mascara": "C",
+    "unidade":"Caloria(s) por Celsius"
   },
   "c": {
     "nome": "Calor Específico",
-    "mascara": "c"
+    "mascara": "c",
+    "unidade":"Joule(s) por Quilo Kelvin"
   },
   "m": {
     "nome": "Massa",
-    "mascara": "m"
+    "mascara": "m",
+    "unidade":"Quilo"
   },
   "Q": {
     "nome": "Quantidade de Calor Sensível",
-    "mascara": "Q"
+    "mascara": "Q",
+    "unidade":"Caloria(s) por Grama Celsius"
   },
   "L": {
     "nome": "Calor Latente",
-    "mascara": "L"
+    "mascara": "L",
+    "unidade":"Joule(s) por Quilo"
   },
   "Qc": {
     "nome": "Quantidade de Calor Cedido",
-    "mascara": "Qc"
+    "mascara": "Qc",
+    "unidade":"Caloria(s)"
   },
   "Qr": {
     "nome": "Quantidade de Calor Recebido",
-    "mascara": "Qr"
+    "mascara": "Qr",
+    "unidade":"Caloria(s)"
   },
   "Φ": {
     "nome": "Fluxo de Calor",
-    "mascara": "Φ"
+    "mascara": "Φ",
+    "unidade":"Watts por Metro elevado na -2"
   },
    "p": {
     "nome": "Pressão",
-    "mascara": "p"
+    "mascara": "p",
+    "unidade":"Newton(s) por Metro ao quadrado"
   },
    "V": {
     "nome": "Volume",
-    "mascara": "V"
+    "mascara": "V",
+    "unidade":"Metro(s) ao cubo"
   },
   "n": {
     "nome": "numero de mols",
-    "mascara": "n"
+    "mascara": "n",
+    "unidade":"Mol(es)"
   },
   "R": {
     "nome": "Constante Universal dos Gases Perfeitos",
-    "mascara": "R"
+    "mascara": "R",
+    "unidade":"Joule(s) por Mol Kelvin"
   },
   "T": {
     "nome": "Temperatura",
-    "mascara": "T"
+    "mascara": "T",
+    "unidade":"Kelvin"
   },
    "p'": {
-    "nome": "Pressão",
-    "mascara": "p'"
+    "nome": "Pressão '",
+    "mascara": "p'",
+    "unidade":"Newton(s) por Metro ao quadrado"
   },
    "V'": {
-    "nome": "Volume",
-    "mascara": "V'"
+    "nome": "Volume '",
+    "mascara": "V'",
+    "unidade":"Metro(s) ao cubo"
   },
   "T'": {
-    "nome": "Temperatura",
-    "mascara": "T'"
+    "nome": "Temperatura '",
+    "mascara": "T'",
+    "unidade":"Kelvin"
   },
    "τ": {
     "nome": "Trabalho",
-    "mascara": "τ"
+    "mascara": "τ",
+    "unidade":"Joule(s)"
   },
    "ΔU": {
     "nome": "Variação de Energia Interna",
-    "mascara": "ΔU"
+    "mascara": "ΔU",
+    "unidade":"Joule(s)"
   },
   "Qq": {
     "nome": "Fonte Quente",
-    "mascara": "Qq"
+    "mascara": "Qq",
+    "unidade":"Joule(s)"
   },
   "Qf": {
     "nome": "Fonte Fria",
-    "mascara": "Qf"
+    "mascara": "Qf",
+    "unidade":"Joule(s)"
   },
    "η": {
     "nome": "Rendimento",
-    "mascara": "η"
+    "mascara": "η",
+    "unidade":""
   },
   "Tq": {
     "nome": "Fonte Quente",
-    "mascara": "Tq"
+    "mascara": "Tq",
+    "unidade":"Kelvin"
   },
   "Tf": {
     "nome": "Fonte Fria",
-    "mascara": "Tf"
+    "mascara": "Tf",
+    "unidade":"Kelvin"
   }
 }

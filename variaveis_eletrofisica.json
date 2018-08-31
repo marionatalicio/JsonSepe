@@ -1,290 +1,362 @@
 {
   "Q": {
     "nome": "Quantidade de Carga Elétrica(Q)",
-    "mascara": "Q"
+    "mascara": "Q",
+    "unidade":"Coulomb(s)"
   },
   "n": {
     "nome": "Numero de Elétrons",
-    "mascara": "n"
+    "mascara": "n",
+    "unidade":"Elétron(s)"
   },
   "e": {
     "nome": "Quantidade de Carga Elementar",
-    "mascara": "e"
+    "mascara": "e",
+    "unidade":"Coulomb(s)"
   },
   "i": {
     "nome": "Média de Corrente Elétrica",
-    "mascara": "i"
+    "mascara": "i",
+    "unidade":"Ampère(s)"
   },
   "ΔT": {
     "nome": "Tempo Escalar",
-    "mascara": "ΔT"
+    "mascara": "ΔT",
+    "unidade":"Segundo(s)"
   },
   "V": {
     "nome": "Potencial Elétrico",
-    "mascara": "V"
+    "mascara": "V",
+    "unidade":"Volt(s)"
   },
   "Ep": {
     "nome": "Energia Potencial Elétrica",
-    "mascara": "Ep"
+    "mascara": "Ep",
+    "unidade":"Volt(s)"
   },
   "U": {
     "nome": "Diferença de Potencial Elétrico(ddp)",
-    "mascara": "U"
+    "mascara": "U",
+    "unidade":"Volt(s)"
   },
   "ΔEp": {
     "nome": "Variação Energia Potencial Elétrica",
-    "mascara": "ΔEp"
+    "mascara": "ΔEp",
+    "unidade":"Volt(s)"
   },
   "P": {
     "nome": "Potência Elétrica",
-    "mascara": "P"
+    "mascara": "P",
+    "unidade":"Watts"
   },
   "R": {
     "nome": "Resistência Elétrica",
-    "mascara": "R"
+    "mascara": "R",
+    "unidade":"Ohm"
   },
   "R'": {
     "nome": "Resistência Elétrica de (')",
-    "mascara": "R'"
+    "mascara": "R'",
+    "unidade":"Ohm"
   },
   "ρ": {
     "nome": "Resistividade",
-    "mascara": "ρ"
+    "mascara": "ρ",
+    "unidade":"Ohm Metro(s)"
   },
   "L": {
     "nome": "Comprimento do Fio",
-    "mascara": "L"
+    "mascara": "L",
+    "unidade":"Metro(s)"
   },
   "A": {
     "nome": "Área da Secção Transversal do Fio ou Placa",
-    "mascara": "A"
+    "mascara": "A",
+    "unidade":"Metro(s) ao quadrado"
   },
   "Re": {
     "nome": "Resistência Elétrica Equivalente",
-    "mascara": "Re"
+    "mascara": "Re",
+    "unidade":"Ohm"
   },
   "Pt": {
     "nome": "Potência Elétrica Total do Gerador",
-    "mascara": "Pt"
+    "mascara": "Pt",
+    "unidade":"Watts"
   },
   "Pd": {
     "nome": "Potência Elétrica Dissipada do Gerador",
-    "mascara": "Pd"
+    "mascara": "Pd",
+    "unidade":"Watts"
   },
   "Pú": {
     "nome": "Potência Elétrica Útil do Gerador",
-    "mascara": "Pú"
+    "mascara": "Pú",
+    "unidade":"Watts"
   },
   "ε": {
     "nome": "Força Eletromotriz(F.EM) do Gerador",
-    "mascara": "ε"
+    "mascara": "ε",
+    "unidade":"Volt(s)"
   },
   "r": {
     "nome": "Resistência Elétrica Interna do Gerador",
-    "mascara": "r"
+    "mascara": "r",
+    "unidade":"Ohm"
   },
   "η": {
     "nome": "Rendimento do Gerador",
-    "mascara": "η"
+    "mascara": "η",
+    "unidade":""
   },
   "Pt'": {
     "nome": "Potência Elétrica Total do Receptor",
-    "mascara": "Pt'"
+    "mascara": "Pt'",
+    "unidade":"Watts"
   },
   "Pd'": {
     "nome": "Potência Elétrica Dissipada do Receptor",
-    "mascara": "Pd'"
+    "mascara": "Pd'",
+    "unidade":"Watts"
   },
   "Pú'": {
     "nome": "Potência Elétrica Útil do Receptor",
-    "mascara": "Pú'"
+    "mascara": "Pú'",
+    "unidade":"Watts"
   },
   "ε'": {
     "nome": "Força Eletromotriz(F.EM) do Receptor",
-    "mascara": "ε'"
+    "mascara": "ε'",
+    "unidade":"Volt(s)"
   },
   "r'": {
     "nome": "Resistência Elétrica Interna do Receptor",
-    "mascara": "r'"
+    "mascara": "r'",
+    "unidade":"Ohm"
   },
   "η'": {
     "nome": "Rendimento do Receptor",
-    "mascara": "η'"
+    "mascara": "η'",
+    "unidade":""
   },
   "R1": {
     "nome": "Resistência Elétrica 1",
-    "mascara": "R1"
+    "mascara": "R1",
+    "unidade":"Ohm"
   },
   "R2": {
     "nome": "Resistência Elétrica 2",
-    "mascara": "R2"
+    "mascara": "R2",
+    "unidade":"Ohm"
   },
   "R3": {
     "nome": "Resistência Elétrica 3",
-    "mascara": "R3"
+    "mascara": "R3",
+    "unidade":"Ohm"
   },
   "R4": {
     "nome": "Resistência Elétrica 4",
-    "mascara": "R4"
+    "mascara": "R4",
+    "unidade":"Ohm"
   },
   "L2": {
     "nome": "Comprimento do Fio 2",
-    "mascara": "L2"
+    "mascara": "L2",
+    "unidade":"Metro(s)"
   },
   "L3": {
     "nome": "Comprimento do Fio 3",
-    "mascara": "L3"
+    "mascara": "L3",
+    "unidade":"Metro(s)"
   },
   "F": {
     "nome": "Força Elétrica",
-    "mascara": "F"
+    "mascara": "F",
+    "unidade":"Newton(s)"
   },
   "k": {
     "nome": "Constante Eletrostática de Coulomb",
     "mascara": "k",
+    "unidade":"Newton(s) Metro(s) ao quadrado por Coulomb ao quadrado",
   },
   "q": {
     "nome": "Quantidade de Carga Elétrica(q)",
-    "mascara": "q"
+    "mascara": "q",
+    "unidade":"Coulomb"
   },
   "d": {
     "nome": "Distância entre as Cargas Elétricas",
-    "mascara": "d"
+    "mascara": "d",
+    "unidade":"Metro(s)"
   },
   "E": {
     "nome": "Campo Elétrico",
-    "mascara": "E"
+    "mascara": "E",
+    "unidade":"Newton(s) por Coulomb"
   },
   "Δd": {
-    "nome": "Variação da Distência",
-    "mascara": "Δd"
+    "nome": "Variação da Distância",
+    "mascara": "Δd",
+    "unidade":"Metro(s)"
   },
   "da": {
     "nome": "Distância a",
-    "mascara": "da"
+    "mascara": "da",
+    "unidade":"Metro(s)"
   },
   "db": {
     "nome": "Distância b",
-    "mascara": "db"
+    "mascara": "db",
+    "unidade":"Metro(s)"
   },
   "Vr": {
     "nome": "Potencial Elétrico Resultante",
-    "mascara": "Vr"
+    "mascara": "Vr",
+    "unidade":"Volt(s)"
   },
   "V'": {
     "nome": "Potencial Elétrico(')",
-    "mascara": "V'"
+    "mascara": "V'",
+    "unidade":"Volt(s)"
   },
   "τ": {
     "nome": "Trabalho de Força Elétrica",
-    "mascara": "τ"
+    "mascara": "τ",
+    "unidade":"Joule(s)"
   },
   "σ": {
     "nome": "Densidade Superficial das Cargas Elétricas",
-    "mascara": "σ"
+    "mascara": "σ",
+    "unidade":"Coulomb(s) por Metro(s) ao quadrado"
   },
   "C": {
     "nome": "Capacidade do Capacitor",
-    "mascara": "C"
+    "mascara": "C",
+    "unidade":"Farad(s)"
   },
   "Ee": {
     "nome": "Energia Armazenada no Capacitor",
-    "mascara": "Ee"
+    "mascara": "Ee",
+    "unidade":"Joule(s)"
   },
   "εp": {
     "nome": "Permissividade Elétrica do Meio",
-    "mascara": "εp"
+    "mascara": "εp",
+    "unidade":"Metro(s)"
   },
   "εr": {
     "nome": "Permissividade Relativa do Capacitor",
-    "mascara": "εr"
+    "mascara": "εr",
+    "unidade":"Farad(s) por Metro"
   },
   "ε0": {
     "nome": "Constante Dielétrica no Vácuo",
-    "mascara": "ε0"
+    "mascara": "ε0",
+    "unidade":""
   },
   "B": {
     "nome": "Campo Magnético",
-    "mascara": "B"
+    "mascara": "B",
+    "unidade":"Ampère(s) por Metro(Tesla)"
   },
   "µ": {
     "nome": "Permeabilidade Magnética",
-    "mascara": "µ"
+    "mascara": "µ",
+    "unidade":"Henry(s) por Metro"
   },
   "π": {
     "nome": "Pi",
-    "mascara": "π"
+    "mascara": "π",
+    "unidade":""
   },
   "R": {
     "nome": "Raio da Espira Circular",
-    "mascara": "R"
+    "mascara": "R",
+    "unidade":"Metro(s)"
   },
   "n": {
     "nome": "Números de Voltas da Espira Circular",
-    "mascara": "n"
+    "mascara": "n",
+    "unidade":"Volta(s)"
   },
   "sen_θ": {
     "nome": "Seno de θ",
-    "mascara": "sen_θ"
+    "mascara": "sen_θ",
+    "unidade":""
   },
   "Fm": {
     "nome": "Força Magnética",
-    "mascara": "Fm"
+    "mascara": "Fm",
+    "unidade":"Newton(s)"
   },
   "v": {
     "nome": "Velocidade de Lançamento",
-    "mascara": "v"
+    "mascara": "v",
+    "unidade":"Metro(s) por Segundo"
   },
   "m": {
     "nome": "Massa da Partícula",
-    "mascara": "m"
+    "mascara": "m",
+    "unidade":"Quilo(s)"
   },
   "T": {
     "nome": "Período",
-    "mascara": "T"
+    "mascara": "T",
+    "unidade":"Segundo(s)"
   },
   "Φ": {
     "nome": "Fluxo Magnético",
-    "mascara": "Φ"
+    "mascara": "Φ",
+    "unidade":"Tesla(s) por Metro(s)"
   },
   "ΔΦ": {
     "nome": "Variação do Fluxo Magnético",
-    "mascara": "ΔΦ"
+    "mascara": "ΔΦ",
+    "unidade":"Tesla(s) por Metro(s)"
   },
   "Φo": {
     "nome": "Fluxo Magnético inicial",
-    "mascara": "Φo"
+    "mascara": "Φo",
+    "unidade":"Tesla(s) por Metro(s)"
   },
   "εm": {
     "nome": "Força Eletromotriz Média",
-    "mascara": "εm"
+    "mascara": "εm",
+    "unidade":"Volt(s)"
   },
   "εi": {
     "nome": "Força Eletromotriz Induzida",
-    "mascara": "εi"
+    "mascara": "εi",
+    "unidade":"Volt(s)"
   },
   "Up": {
     "nome": "Diferença de Potencial Elétrico Primário",
-    "mascara": "Up"
+    "mascara": "Up",
+    "unidade":"Volt(s)"
   },
   "Us": {
     "nome": "Diferença de Potencial Elétrico Secundário",
-    "mascara": "Us"
+    "mascara": "Us",
+    "unidade":"Volt(s)"
   },
   "Np": {
     "nome": "Número de Espiras Primária",
-    "mascara": "Np"
+    "mascara": "Np",
+    "unidade":"Espira(s)"
   },
   "Ns": {
     "nome": "Número de Espiras Secundária",
-    "mascara": "Ns"
+    "mascara": "Ns",
+    "unidade":"Espira(s)"
   },
   "ip": {
     "nome": "Corrente Elétrica Primária",
-    "mascara": "ip"
+    "mascara": "ip",
+    "unidade":"Ampère(s)"
   },
   "is": {
     "nome": "Corrente Elétrica Secundária",
-    "mascara": "is"
+    "mascara": "is",
+    "unidade":"Ampère(s)"
   }
 }
