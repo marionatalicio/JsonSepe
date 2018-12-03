@@ -73,12 +73,6 @@
   },
   {
     "categoria" :"Lançamento Vertical",
-    "nomeFormula": "Função Horária da Velocidade",
-    "formula": " ΔV = ( g * ΔT ) ",
-    "incog": ["ΔV", "ΔV", "ΔT"]
-  },
-  {
-    "categoria" :"Lançamento Vertical",
     "nomeFormula": "Função Horária da Altura (Torricelli)",
     "formula": " ΔV = pow( pow( 2 * g * Δh ) , 1/2 ) ",
     "incog": ["ΔV", "ΔV", "g", "Δh"]

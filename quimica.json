@@ -99,7 +99,7 @@
   {
     "categoria" : "Átomo",
     "nomeFormula": "Massa Atômica",
-    "formula": " A = Z + P ",
-    "incog": ["A", "Z", "P"]
+    "formula": " A = Z + N ",
+    "incog": ["A", "Z", "N"]
   }
 ]
